@@ -1,5 +1,5 @@
 {
-  "name": "minishlink/web-push-bundle",
+  "name": "myneid/web-push-bundle",
   "type": "symfony-bundle",
   "description": "Symfony Bundle around the WebPush library",
   "keywords": [
